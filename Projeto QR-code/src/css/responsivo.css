@@ -1,0 +1,18 @@
+@media (max-width: 375px) {
+    .container .informacoes {
+        width: 80vw;
+        height: 70vh;
+    }
+    .informacoes .qr-code {
+        height: 60%;
+        margin-top: 10px;
+    }
+    .informacoes .primeiro-paragrafo{
+        font-size: 21px;
+        margin-top: 20px;
+    }
+    .informacoes .segundo-paragrafo{
+        font-size: 15px;
+        margin-top: 15px;
+    }
+}
